@@ -31,3 +31,6 @@ then
 	echo "net-net-tools installed"
 	ifconfig
 fi
+echo " good job Alain, the six figure income is waiting for you. keep hustling"
+	echo " thank you prof for the leadership in the community"
+
